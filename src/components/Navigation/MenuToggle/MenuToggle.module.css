@@ -1,0 +1,21 @@
+.MenuToggle {
+    position: fixed;
+    top: 40px;
+    left: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    transition: opacity, left .22s ease-in;
+    z-index: 100;
+    border: 1px solid;
+    padding: 2px 5px;
+    border-radius: 6px
+}
+
+.MenuToggle:hover {
+    opacity: .7;
+}
+.active {
+    background-color: red;
+    left: 180px;
+}

@@ -1,0 +1,17 @@
+.FinnishedQuiz {
+    padding: 20px;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 0 10px;
+}
+.FinnishedQuiz ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.FinnishedQuiz ul li {
+    
+}
